@@ -1,10 +1,11 @@
 # hello-world-sl
 Learning GitHub Desktop app
 
-# This is an example of a README file.
-## This is
-### an example of different
-#### headers in a README file.
+This is an example of a README file.
+# H1
+## H2
+### H3
+#### H4
 
 *Italics* _Italics_
 **Bold** __Bold__
