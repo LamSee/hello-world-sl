@@ -13,7 +13,7 @@ Learning GitHub Desktop app
 
 1. First List Item
 2. Second Item
---* Unordered sub-list
---1. Ordered sub-list
+⋅⋅* Unordered sub-list
+⋅⋅1. Ordered sub-list
 
 [Link](https://www.google.com)
